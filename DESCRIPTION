@@ -1,0 +1,11 @@
+Title: Multivariate
+Author: Daniel Barnett, Tom Elliott
+Version: 1.0.1.9000
+Imports:
+    vegan,
+    iNZightMultivariate,
+    GGally,
+    corrplot
+Github:
+    iNZightVIT/iNZightMultivariate
+Description: A module used for multivariate graphics and analysis.
